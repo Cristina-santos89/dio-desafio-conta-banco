@@ -1,4 +1,4 @@
-# Repositorio para fazer a contribuição no desafio ContaBanco Dio - Trilha Java Básico
+# Repositorio para fazer a contribuição do desafio Conta Banco Dio - Trilha Java Básico
 
 www.dio.me
 
